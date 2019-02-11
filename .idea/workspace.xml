@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b9ce81a8-b7ef-486b-b26a-1fe15d5d0ffd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/cnc/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/cnc/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/images/cnc/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/images/cnc/2.jpg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1013">
-              <caret line="275" column="68" lean-forward="true" selection-start-line="275" selection-start-column="68" selection-end-line="275" selection-end-column="68" />
+            <state relative-caret-position="676">
+              <caret line="275" column="68" selection-start-line="275" selection-start-column="68" selection-end-line="275" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -52,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="100" />
     <option name="y" value="17" />
     <option name="width" value="1431" />
@@ -130,6 +130,7 @@
       <workItem from="1549554178881" duration="1996000" />
       <workItem from="1549647865663" duration="599000" />
       <workItem from="1549662485426" duration="3634000" />
+      <workItem from="1549728297375" duration="1893000" />
     </task>
     <task id="LOCAL-00001" summary="descripcion de servicios">
       <created>1549497888610</created>
@@ -142,11 +143,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17953000" />
+    <option name="totallyTimeSpent" value="19846000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1600" height="900" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1600" height="900" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13354431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -175,13 +175,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="descripcion de servicios" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/media/images/cnc/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1013">
-          <caret line="275" column="68" lean-forward="true" selection-start-line="275" selection-start-column="68" selection-end-line="275" selection-end-column="68" />
+        <state relative-caret-position="676">
+          <caret line="275" column="68" selection-start-line="275" selection-start-column="68" selection-end-line="275" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -193,6 +190,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/images/cnc/1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
